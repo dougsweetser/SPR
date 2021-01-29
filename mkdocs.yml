@@ -1,0 +1,7 @@
+site_name: Spiritual Physics Research
+
+theme: ivory
+
+nav:
+    - Home: index.md
+    - Slides: slides.md
