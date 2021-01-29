@@ -1,7 +1,8 @@
-site_name: Spiritual Physics Research
+site_name: SPR
 
 theme: ivory
 
 nav:
     - Home: index.md
-    - Slides: slides.md
+    - Slides: Slides/slides.md
+    - T-shirts: T-shirts/t-shirts.md
