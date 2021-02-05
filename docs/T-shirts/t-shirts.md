@@ -18,15 +18,15 @@ Each design comes in a variety of colors and the usual range of sizes.
 #### in white - click to go to store
 
 <a href="https://teespring.com/get-zero-and-one-done-right">
-![in white, front](2021-01__5_equations__t-shirt__white_front__big.jpg)
+![in white, front](5_equations/2021-01__5_equations__t-shirt__white_front__big.jpg)
 
-![in white, back](2021-01__5_equations__t-shirt__white_back__big.jpg)
+![in white, back](5_equations/2021-01__5_equations__t-shirt__white_back__big.jpg)
 </a>
 
 #### in black, Always here now and seen
 
 <a href="https://teespring.com/always-here-now-and-seen">
-![in black, front](2021-01__5_equations__t-shirt__black_front__big.jpg)
+![in black, front](5_equations/2021-01__5_equations__t-shirt__black_front__big.jpg)
 
-![in black, back](2021-01__5_equations__t-shirt__black_back__big.jpg)
+![in black, back](5_equations/2021-01__5_equations__t-shirt__black_back__big.jpg)
 </a>
