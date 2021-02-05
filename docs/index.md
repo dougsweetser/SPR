@@ -8,7 +8,7 @@ Doug Sweetser will bring on the simple but odd math.
 
 ## Topics:
 
-1. [The 5 most important equations in all of physics](Slides/2021-01__SPR__5_eqs.pdf)
+1. The 5 most important equations in all of physics [Slides](Slides/2021-01__SPR__5_eqs.pdf) or [47' video](https://bit.ly/SPR_1_video)
 1. Relativity, what we disagree on, calculations we agree on
 1. A new road to gravity
 1. Quantum mechanics wierdness and mirrors

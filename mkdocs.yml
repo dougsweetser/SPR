@@ -4,5 +4,6 @@ theme: ivory
 
 nav:
     - Home: index.md
+    - Videos: Videos/videos.md
     - Slides: Slides/slides.md
     - T-shirts: T-shirts/t-shirts.md
