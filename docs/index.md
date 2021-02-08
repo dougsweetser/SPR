@@ -1,4 +1,4 @@
-# Spiritual Physic Research Discussion Series
+![](images/logo_50p.png)
 
 An effort by First Church Unitarian, Littleton, MA
 
