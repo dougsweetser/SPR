@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="300"
+   inkscape:export-filename="/Users/doug/workspace/SPR/docs/T-shirts/SPR_discussion_series/2021-02-10__SPR_discussion_series__t-shirt__back__sharing_struggle__DS.png"
+   sodipodi:docname="2021-02-04__SPR_discussion_series__back__DS.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 508 285.75"
+   height="1080"
+   width="1920">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="25"
+     inkscape:window-x="48"
+     inkscape:window-height="762"
+     inkscape:window-width="1252"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer3"
+     inkscape:document-units="mm"
+     inkscape:cy="672.56268"
+     inkscape:cx="757.87751"
+     inkscape:zoom="0.23597633"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:label="background"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <rect
+       y="25.666908"
+       x="82.412323"
+       height="234.41618"
+       width="343.17535"
+       id="rect494"
+       style="opacity:1;fill:#ffd5e5;stroke:#000000;stroke-width:0.185089" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       id="text488"
+       y="72.203049"
+       x="260.50906"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.8611px;line-height:1.25;font-family:'Bradley Hand';-inkscape-font-specification:'Bradley Hand, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         y="72.203049"
+         x="260.50906"
+         id="tspan492"
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle">Sharing </tspan><tspan
+         y="129.52942"
+         x="260.50906"
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle"
+         id="tspan321">a struggle</tspan><tspan
+         y="186.85579"
+         x="260.50906"
+         sodipodi:role="line"
+         id="tspan317"
+         style="text-align:center;text-anchor:middle">to individually </tspan><tspan
+         y="244.18217"
+         x="260.50906"
+         sodipodi:role="line"
+         id="tspan319"
+         style="text-align:center;text-anchor:middle">understand</tspan></text>
+  </g>
+</svg>
