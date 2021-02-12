@@ -12,7 +12,7 @@
    inkscape:export-xdpi="300"
    inkscape:export-filename="/Users/dougs/Q/SPR/docs/T-shirts/SPR_discussion_series/2021-02-10__SPR_discussion_series__t-shirt__front__pink__DS.png"
    sodipodi:docname="2021-02-04__SPR_discussion_series__DS.svg"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
    id="svg8"
    version="1.1"
    viewBox="0 0 508 285.75"
@@ -22,14 +22,14 @@
      id="defs2" />
   <sodipodi:namedview
      inkscape:window-maximized="0"
-     inkscape:window-y="23"
+     inkscape:window-y="25"
      inkscape:window-x="48"
      inkscape:window-height="762"
      inkscape:window-width="1252"
      units="px"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:document-units="mm"
      inkscape:cy="560"
      inkscape:cx="757.87751"
@@ -53,7 +53,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="background"
      id="layer3"
      inkscape:groupmode="layer">
@@ -63,7 +63,7 @@
        height="313.94391"
        width="523.61359"
        id="rect494"
-       style="opacity:0.5;fill:#ffd5e5;stroke:#000000;stroke-width:0.264583" />
+       style="opacity:1;fill:#ffd5e5;stroke:#000000;stroke-width:0.264583" />
   </g>
   <g
      id="layer1"
