@@ -626,22 +626,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
-       x="161.0889"
-       y="165.18004"
-       id="text4711"><tspan
+       x="-166.35846"
+       y="179.73352"
+       id="text4711"
+       transform="rotate(-90)"
+       inkscape:transform-center-x="-12.316819"
+       inkscape:transform-center-y="6.5433101"><tspan
          sodipodi:role="line"
-         x="161.0889"
-         y="165.18004"
+         x="-166.35846"
+         y="179.73352"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          id="tspan4731">Energy</tspan><tspan
          sodipodi:role="line"
-         x="161.0889"
-         y="165.70474"
+         x="-166.35846"
+         y="180.25822"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          id="tspan4735" /><tspan
          sodipodi:role="line"
-         x="161.0889"
-         y="166.22945"
+         x="-166.35846"
+         y="180.78293"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          id="tspan4729" /></text>
     <text
@@ -658,24 +661,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
-       x="-7.0838633"
-       y="247.05688"
+       x="15.812337"
+       y="244.70981"
        id="text4723"
        transform="rotate(-45)"><tspan
          sodipodi:role="line"
          id="tspan4721"
-         x="-7.0838633"
-         y="247.05688">light</tspan></text>
+         x="15.812337"
+         y="244.70981">light</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:0;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
-       x="-181.6104"
-       y="184.71053"
-       id="text4751"
-       transform="rotate(-90)"><tspan
+       x="161.18811"
+       y="170.23586"
+       id="text4751"><tspan
          sodipodi:role="line"
-         x="-181.6104"
-         y="184.71053"
+         x="161.18811"
+         y="170.23586"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          id="tspan4749">momentum</tspan></text>
   </g>
@@ -740,23 +742,23 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:0;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
        x="97.154991"
-       y="45.235508"
+       y="54.23135"
        id="text4917"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:0.95;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.264583"
          x="98.477905"
-         y="45.235508"
+         y="54.23135"
          id="tspan4915">Space-time </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:0;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583"
        x="200.50278"
-       y="45.235508"
+       y="54.23135"
        id="text4921"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.05;font-family:Palatino;-inkscape-font-specification:'Palatino, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.264583"
          x="200.50278"
-         y="45.235508"
+         y="54.23135"
          id="tspan4923">Energy-momentum</tspan></text>
   </g>
   <g
