@@ -12,7 +12,7 @@
    inkscape:export-xdpi="300"
    inkscape:export-filename="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/2021-02-08__relativity__t-shirt__v3__turquoise__DS.png"
    sodipodi:docname="2021-02-08__relativity__t-shirt__v3__DS.svg"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
    id="svg8"
    version="1.1"
    viewBox="0 0 215.9 279.4"
@@ -24,9 +24,9 @@
      inkscape:guide-bbox="true"
      showguides="true"
      inkscape:window-maximized="0"
-     inkscape:window-y="23"
+     inkscape:window-y="25"
      inkscape:window-x="52"
-     inkscape:window-height="855"
+     inkscape:window-height="847"
      inkscape:window-width="1252"
      units="in"
      showgrid="false"
@@ -34,8 +34,8 @@
      inkscape:current-layer="g1240"
      inkscape:document-units="mm"
      inkscape:cy="530.23328"
-     inkscape:cx="463.67176"
-     inkscape:zoom="0.7"
+     inkscape:cx="498.61484"
+     inkscape:zoom="0.67219858"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -73,49 +73,59 @@
      inkscape:groupmode="layer"
      inkscape:label="graphs">
     <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/gravity.jpg"
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/gravity.jpg"
        xlink:href="gravity.jpg"
-       y="13.364743"
-       x="62.358734"
-       width="81.808716"
+       id="image1056"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
        height="81.808716"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image1056" />
+       width="81.808716"
+       x="62.358734"
+       y="13.364743" />
     <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/unity.jpg"
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/unity.jpg"
        xlink:href="unity.jpg"
-       y="119.1018"
-       x="23.48205"
-       width="81.094238"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="image992"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
        height="81.094238"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image992" />
+       width="81.094238"
+       x="23.48205"
+       y="119.1018" />
     <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/special_relativity.jpg"
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/special_relativity.jpg"
        xlink:href="special_relativity.jpg"
-       y="117.85145"
-       x="118.99361"
-       width="83.59494"
-       height="83.59494"
-       preserveAspectRatio="none"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="image928"
        style="image-rendering:optimizeQuality"
-       id="image928" />
+       preserveAspectRatio="none"
+       height="83.59494"
+       width="83.59494"
+       x="118.99361"
+       y="117.85145" />
     <path
        id="path2018"
        d="M 115.69864,142.23696 H 144.8028"
-       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 107.76114,137.13429 h 32.88392"
-       id="path2020" />
+       id="path2020"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        sodipodi:nodetypes="cc"
        id="path2022"
        d="m 107.00519,147.33962 h 33.63987"
-       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
   </g>
   <g
      style="display:inline"
@@ -123,99 +133,117 @@
      inkscape:groupmode="layer"
      id="g1182">
     <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/2021-02-08__stick_man_black__DS1.png"
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/2021-02-08__stick_man_black__DS1.png"
        xlink:href="2021-02-08__stick_man_black__DS1.png"
-       transform="rotate(90)"
-       id="image1132"
-       preserveAspectRatio="none"
-       height="45.004368"
-       width="69.040794"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       y="-93.081306"
        x="126.89629"
-       y="-93.081306" />
+       width="69.040794"
+       height="45.004368"
+       preserveAspectRatio="none"
+       id="image1132"
+       transform="rotate(90)" />
     <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/2021-02-08__stick_man_blue__DS.png"
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/2021-02-08__stick_man_blue__DS.png"
        xlink:href="2021-02-08__stick_man_blue__DS.png"
-       transform="matrix(-0.0184828,0.99982918,0.99982918,0.0184828,0,0)"
-       id="image1134"
-       preserveAspectRatio="none"
-       height="51.354355"
-       width="75.39257"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       y="134.42763"
        x="117.14364"
-       y="134.42763" />
-    <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/2021-02-08__stick_man_green__DS.png"
-       xlink:href="2021-02-08__stick_man_green__DS.png"
-       transform="rotate(76.921097)"
-       id="image1136"
+       width="75.39257"
+       height="51.354355"
        preserveAspectRatio="none"
-       height="63.671131"
-       width="70.7985"
+       id="image1134"
+       transform="matrix(-0.0184828,0.99982918,0.99982918,0.0184828,0,0)" />
+    <image
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/2021-02-08__stick_man_green__DS.png"
+       xlink:href="2021-02-08__stick_man_green__DS.png"
+       y="-120.68536"
        x="37.781265"
-       y="-120.68536" />
+       width="70.7985"
+       height="63.671131"
+       preserveAspectRatio="none"
+       id="image1136"
+       transform="rotate(76.921097)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 115.69864,142.23696 H 144.8028"
-       id="path1170" />
+       id="path1170"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        id="path1172"
        d="m 107.76114,137.13429 h 32.88392"
        style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 107.00519,147.33962 h 33.63987"
        id="path1174"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/v=0.jpg"
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/v=0.jpg"
        xlink:href="v=0.jpg"
-       id="image1176"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="5.2301617"
-       width="17.043112"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       y="160.63971"
        x="25.230043"
-       y="160.63971" />
+       width="17.043112"
+       height="5.2301617"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1176" />
     <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/v=dRdt.jpg"
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/v=dRdt.jpg"
        xlink:href="v=dRdt.jpg"
-       id="image1178"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="13.078875"
-       width="23.145201"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       y="160.49205"
        x="122.34018"
-       y="160.49205" />
-    <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/v=v_esc.jpg"
-       xlink:href="v=v_esc.jpg"
-       id="image1180"
+       width="23.145201"
+       height="13.078875"
+       preserveAspectRatio="none"
        style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="13.770376"
-       width="29.602983"
+       id="image1178" />
+    <image
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/v=v_esc.jpg"
+       xlink:href="v=v_esc.jpg"
+       y="60.839882"
        x="64.993187"
-       y="60.839882" />
+       width="29.602983"
+       height="13.770376"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1180" />
     <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/2021-02-08__explosion_1__DS.png"
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/2021-02-08__explosion_1__DS.png"
        xlink:href="2021-02-08__explosion_1__DS.png"
-       style="display:inline"
-       y="42.402328"
-       x="173.58618"
-       width="21.724333"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="image929"
+       preserveAspectRatio="none"
        height="19.712822"
-       preserveAspectRatio="none"
-       id="image929" />
+       width="21.724333"
+       x="173.58618"
+       y="42.402328"
+       style="display:inline" />
     <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/2021-02-08__explosion_2__DS.png"
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/2021-02-08__explosion_2__DS.png"
        xlink:href="2021-02-08__explosion_2__DS.png"
-       style="display:inline"
-       y="51.427063"
-       x="153.67236"
-       width="19.913975"
-       height="17.99917"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="image943"
        preserveAspectRatio="none"
-       id="image943" />
+       height="17.99917"
+       width="19.913975"
+       x="153.67236"
+       y="51.427063"
+       style="display:inline" />
   </g>
   <g
      style="display:inline"
@@ -225,60 +253,72 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 115.69864,142.23696 H 144.8028"
-       id="path1108" />
+       id="path1108"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        id="path1110"
        d="m 107.76114,137.13429 h 32.88392"
        style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 107.00519,147.33962 h 33.63987"
        id="path1112"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/v=0.jpg"
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/v=0.jpg"
        xlink:href="v=0.jpg"
-       id="image1114"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="5.2301617"
-       width="17.043112"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       y="160.63971"
        x="25.230043"
-       y="160.63971" />
+       width="17.043112"
+       height="5.2301617"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1114" />
     <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/v=dRdt.jpg"
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/v=dRdt.jpg"
        xlink:href="v=dRdt.jpg"
-       id="image1116"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="13.078875"
-       width="23.145201"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       y="160.49205"
        x="122.34018"
-       y="160.49205" />
-    <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/v=v_esc.jpg"
-       xlink:href="v=v_esc.jpg"
-       id="image1118"
-       style="image-rendering:optimizeQuality"
+       width="23.145201"
+       height="13.078875"
        preserveAspectRatio="none"
-       height="13.770376"
-       width="29.602983"
+       style="image-rendering:optimizeQuality"
+       id="image1116" />
+    <image
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/v=v_esc.jpg"
+       xlink:href="v=v_esc.jpg"
+       y="60.839882"
        x="64.993187"
-       y="60.839882" />
+       width="29.602983"
+       height="13.770376"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1118" />
   </g>
   <g
      id="g1240"
      inkscape:groupmode="layer"
      inkscape:label="blue text"
-     style="display:none">
+     style="display:inline">
     <text
        transform="rotate(-21.480711)"
        id="text1215"
        y="132.49176"
        x="123.03932"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:0.264583"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
          id="tspan1213"
          y="132.49176"
          x="123.03932"
@@ -314,53 +354,65 @@
     <path
        id="path1228"
        d="M 115.69864,142.23696 H 144.8028"
-       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 107.76114,137.13429 h 32.88392"
-       id="path1230" />
+       id="path1230"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        sodipodi:nodetypes="cc"
        id="path1232"
        d="m 107.00519,147.33962 h 33.63987"
-       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/v=0.jpg"
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/v=0.jpg"
        xlink:href="v=0.jpg"
-       y="160.63971"
-       x="25.230043"
-       width="17.043112"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="image1234"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
        height="5.2301617"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image1234" />
+       width="17.043112"
+       x="25.230043"
+       y="160.63971" />
     <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/v=dRdt.jpg"
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/v=dRdt.jpg"
        xlink:href="v=dRdt.jpg"
-       y="160.49205"
-       x="122.34018"
-       width="23.145201"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       id="image1236"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
        height="13.078875"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image1236" />
+       width="23.145201"
+       x="122.34018"
+       y="160.49205" />
     <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/v=v_esc.jpg"
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/v=v_esc.jpg"
        xlink:href="v=v_esc.jpg"
-       y="60.839882"
-       x="64.993187"
-       width="29.602983"
-       height="13.770376"
-       preserveAspectRatio="none"
+       id="image1238"
        style="image-rendering:optimizeQuality"
-       id="image1238" />
+       preserveAspectRatio="none"
+       height="13.770376"
+       width="29.602983"
+       x="64.993187"
+       y="60.839882" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:0.264583"
        x="156.41823"
        y="209.69023"
-       id="text1250"><tspan
+       id="text1250"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
          sodipodi:role="line"
          x="156.41823"
@@ -370,7 +422,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
          sodipodi:role="line"
          x="156.41823"
-         y="220.27357">Special relativity</tspan></text>
+         y="220.27357">Speedy relativity</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:0.264583"
@@ -394,7 +446,9 @@
        y="208.11336"
        x="42.545071"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:0.264583"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
          y="208.11336"
          x="42.545071"
          id="tspan1138"
@@ -402,7 +456,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;stroke:#0000ff;stroke-width:0.264583">Me here-now</tspan></text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="turquoise text"
      inkscape:groupmode="layer"
      id="g1340">
@@ -460,35 +514,35 @@
        id="path1318"
        sodipodi:nodetypes="cc" />
     <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/v=0.jpg"
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/v=0.jpg"
        xlink:href="v=0.jpg"
-       id="image1320"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="5.2301617"
-       width="17.043112"
+       y="160.63971"
        x="25.230043"
-       y="160.63971" />
+       width="17.043112"
+       height="5.2301617"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1320" />
     <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/v=dRdt.jpg"
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/v=dRdt.jpg"
        xlink:href="v=dRdt.jpg"
-       id="image1322"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="13.078875"
-       width="23.145201"
+       y="160.49205"
        x="122.34018"
-       y="160.49205" />
-    <image
-       sodipodi:absref="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/v=v_esc.jpg"
-       xlink:href="v=v_esc.jpg"
-       id="image1324"
-       style="image-rendering:optimizeQuality"
+       width="23.145201"
+       height="13.078875"
        preserveAspectRatio="none"
-       height="13.770376"
-       width="29.602983"
+       style="image-rendering:optimizeQuality"
+       id="image1322" />
+    <image
+       sodipodi:absref="/Users/doug/workspace/SPR/docs/T-shirts/Relativity/v=v_esc.jpg"
+       xlink:href="v=v_esc.jpg"
+       y="60.839882"
        x="64.993187"
-       y="60.839882" />
+       width="29.602983"
+       height="13.770376"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1324" />
     <text
        id="text1330"
        y="209.69023"
@@ -504,7 +558,7 @@
          x="156.41823"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00ffff;stroke:#00ffff;stroke-width:0.264583"
-         id="tspan1328">Special relativity</tspan></text>
+         id="tspan1328">Speedy relativity</tspan></text>
     <text
        id="text1338"
        y="103.16596"
@@ -525,11 +579,11 @@
    id="tspan1334">Gravity relati</tspan>vity</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667000000000058px;line-height:1.25;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;stroke:#00ffff;stroke-width:0.264583;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;stroke:#00ffff;stroke-width:0.264583"
        x="42.545071"
        y="208.11336"
        id="text1140-7"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667000000000058px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;stroke:#00ffff;stroke-width:0.264583;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffff;stroke:#00ffff;stroke-width:0.264583"
          sodipodi:role="line"
          id="tspan1138-3"
          x="42.545071"
