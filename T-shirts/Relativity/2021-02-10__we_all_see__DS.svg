@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="300"
+   inkscape:export-filename="/Users/dougs/Q/SPR/docs/T-shirts/Relativity/2021-02-10__we_all_see__t-shirt__back__purple__DS.png"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg1453"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="2021-02-10__We_all_see__DS.svg">
+  <defs
+     id="defs1447" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="401.81501"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g2249"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1252"
+     inkscape:window-height="855"
+     inkscape:window-x="188"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1450">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="text purple"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;line-height:1.25;font-family:'Chalkboard SE';-inkscape-font-specification:'Chalkboard SE, Normal';fill:#0000ff;stroke:#0000ff;stroke-width:0.264583"
+       x="109.03532"
+       y="63.5"
+       id="text2018"><tspan
+         sodipodi:role="line"
+         id="tspan2016"
+         x="109.03531"
+         y="63.5"
+         style="text-align:center;text-anchor:middle;fill:#0000ff;stroke:#0000ff;stroke-width:0.264583">We all see the Universe</tspan><tspan
+         sodipodi:role="line"
+         x="109.03532"
+         y="84.666626"
+         style="font-style:italic;text-align:center;text-anchor:middle;fill:#0000ff;stroke:#0000ff;stroke-width:0.264583"
+         id="tspan2020">differently,</tspan><tspan
+         id="tspan2233"
+         sodipodi:role="line"
+         x="109.03532"
+         y="105.83325"
+         style="text-align:center;text-anchor:middle;fill:#0000ff;stroke:#0000ff;stroke-width:0.264583">and we all can agree</tspan><tspan
+         id="tspan2237"
+         sodipodi:role="line"
+         x="109.03532"
+         y="126.99988"
+         style="text-align:center;text-anchor:middle;fill:#0000ff;stroke:#0000ff;stroke-width:0.264583">on parts of squares.</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     id="g2249"
+     inkscape:groupmode="layer"
+     inkscape:label="text purple copy">
+    <text
+       id="text2247"
+       y="63.5"
+       x="109.03532"
+       style="font-size:16.9333px;line-height:1.25;font-family:'Chalkboard SE';-inkscape-font-specification:'Chalkboard SE, Normal';fill:#00ffff;stroke:#00ffff;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;fill:#00ffff;stroke:#00ffff;stroke-width:0.264583"
+         y="63.5"
+         x="109.03531"
+         id="tspan2239"
+         sodipodi:role="line">We all see the Universe</tspan><tspan
+         id="tspan2241"
+         style="font-style:italic;text-align:center;text-anchor:middle;fill:#00ffff;stroke:#00ffff;stroke-width:0.264583"
+         y="84.666626"
+         x="109.03532"
+         sodipodi:role="line">differently,</tspan><tspan
+         style="text-align:center;text-anchor:middle;fill:#00ffff;stroke:#00ffff;stroke-width:0.264583"
+         y="105.83325"
+         x="109.03532"
+         sodipodi:role="line"
+         id="tspan2243">and we all can agree</tspan><tspan
+         style="text-align:center;text-anchor:middle;fill:#00ffff;stroke:#00ffff;stroke-width:0.264583"
+         y="126.99988"
+         x="109.03532"
+         sodipodi:role="line"
+         id="tspan2245">on parts of squares.</tspan></text>
+  </g>
+</svg>
