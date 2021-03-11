@@ -39,3 +39,19 @@ a number by itself was used.
 src="https://www.youtube.com/embed/pP4dxJ_Czbc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
+## For relativity, we all see things differently and 
+## we all can agree to parts of squares
+
+The second discussion had the same size crowd, so not too many were scared away. The 
+slide presentation lasted 53 minutes. 
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/Q0CDuAkXCt8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+## YouTube Links
+
+[Here-now and numbers, 47'](https://bit.ly/SPR_1_video)
+
+[Speedy relativity, me-space and you-space, 53'](https://bit.ly/SPR_video_2)
+
