@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="300"
+   inkscape:export-filename="/Users/doug/workspace/SPR/docs/T-shirts/QM/2021-04-24__pieces_are_missing__t-shirt__back__purple_turquoise__DS.png"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg1453"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="2021-04-23__pieces_are_missing__DS.svg">
+  <defs
+     id="defs1447">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Blur"
+       id="filter990">
+      <feGaussianBlur
+         stdDeviation="1 1"
+         result="blur"
+         id="feGaussianBlur988" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.57931726"
+     inkscape:cx="401.81501"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1326"
+     inkscape:window-height="787"
+     inkscape:window-x="35"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1450">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="turquoise box">
+    <rect
+       style="display:inline;opacity:0.8;fill:#00ffff;stroke:#00ffff;stroke-width:4"
+       id="rect875"
+       width="209.17583"
+       height="42.931282"
+       x="1.8268631"
+       y="45.671577" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="fuzz text">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93329999999999913px;line-height:1.25;font-family:'Chalkboard SE';-inkscape-font-specification:'Chalkboard SE, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.264583;filter:url(#filter990)"
+       x="105.35416"
+       y="61.885181"
+       id="text2018-5"><tspan
+         sodipodi:role="line"
+         id="tspan849-6"
+         x="105.35416"
+         y="61.885181"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#1a1a1a;stroke:#1a1a1a;">A puzzle cannot be solved</tspan><tspan
+         sodipodi:role="line"
+         id="tspan851-8"
+         x="105.35416"
+         y="83.051804"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#1a1a1a;stroke:#1a1a1a;">when pieces are missing</tspan></text>
+  </g>
+  <g
+     inkscape:label="text purple"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Chalkboard SE';-inkscape-font-specification:'Chalkboard SE, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;stroke:#0000ff;stroke-width:0.264583"
+       x="106.4125"
+       y="61.356014"
+       id="text2018"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="106.4125"
+         y="61.356014"
+         style="text-align:center;text-anchor:middle">A puzzle cannot be solved</tspan><tspan
+         sodipodi:role="line"
+         id="tspan851"
+         x="106.4125"
+         y="82.522636"
+         style="text-align:center;text-anchor:middle">when pieces are missing</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     id="g2249"
+     inkscape:groupmode="layer"
+     inkscape:label="text purple copy">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Chalkboard SE';-inkscape-font-specification:'Chalkboard SE, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00ffff;stroke:#00ffff;stroke-width:0.264583"
+       x="106.4125"
+       y="61.356014"
+       id="text2018-3"><tspan
+         sodipodi:role="line"
+         id="tspan849-5"
+         x="106.4125"
+         y="61.356014"
+         style="text-align:center;text-anchor:middle;fill:#00ffff;stroke:#00ffff;stroke-width:0.264583">A puzzle cannot be solved</tspan><tspan
+         sodipodi:role="line"
+         id="tspan851-2"
+         x="106.4125"
+         y="82.522636"
+         style="text-align:center;text-anchor:middle;fill:#00ffff;stroke:#00ffff;stroke-width:0.264583">when pieces are missing</tspan></text>
+  </g>
+</svg>
