@@ -49,9 +49,20 @@ slide presentation lasted 53 minutes.
 src="https://www.youtube.com/embed/Q0CDuAkXCt8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
+## For gravity, we all see things differently and 
+## we all can agree to parts of squares
+
+Notice how similar the title is! That is the most amazing thing about the proposal. There is a new idea about inertia: it is all about many, many spinning tops. There are so many spinning tops, the arrows used to describe tops cancel. What remains is the energy part of returning-momentum-erergy. It is this energy that is inertia.
+
+<iframe width="560" height="315" 
+src="https://youtu.be/o27EbA-QWHc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 ## YouTube Links
 
 [Here-now and numbers, 47'](https://bit.ly/SPR_1_video)
 
 [Speedy relativity, me-space and you-space, 53'](https://bit.ly/SPR_video_2)
+
+[Gravity relativity, we agree on hyperbolas, 53'](https://bit.ly/SPR_video_3)
 
