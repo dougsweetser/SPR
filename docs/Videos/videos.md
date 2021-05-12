@@ -55,7 +55,7 @@ allowfullscreen></iframe>
 Notice how similar the title is! That is the most amazing thing about the proposal. There is a new idea about inertia: it is all about many, many spinning tops. There are so many spinning tops, the arrows used to describe tops cancel. What remains is the energy part of returning-momentum-erergy. It is this energy that is inertia.
 
 <iframe width="560" height="315" 
-src="https://youtu.be/o27EbA-QWHc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+src="https://www.youtube.com/embed/o27EbA-QWHc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
 ## YouTube Links
