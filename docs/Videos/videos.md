@@ -63,7 +63,7 @@ allowfullscreen></iframe>
 We know there are many diverse approaches to the idea of God. There are also many ideas about how to approach quantum mechanics. While I am at peace with religeous diversity, I do not feel that way about interpretations of quantum mechanics. In my opinion, there are 2 pieces missing. The first is that one must do the work of transitioning from complex numbers which are useful but not physically meaningful to space-time numbers that can be mapped directly to events in space-time. The second is that the events that quantum mechanics work with are space-like separated from the observer.
 
 <iframe width="560" height="315" 
-src="https://youtu.be/RSTXqL7D-Hg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+src="https://www.youtube.com/watch?v=RSTXqL7D-Hg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
 ## YouTube Links
@@ -74,3 +74,4 @@ allowfullscreen></iframe>
 
 [Gravity relativity, we agree on hyperbolas, 53'](https://bit.ly/SPR_video_3)
 
+[Quantum Mechanics](https://www.youtube.com/watch?v=RSTXqL7D-Hg)
